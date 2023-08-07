@@ -15,5 +15,5 @@ Running `dogfact 2` gives two dog facts.
 - cpp-httplib ([MIT License](https://github.com/yhirose/cpp-httplib/blob/master/LICENSE))
 
 ## TODO
-- Format output (currently is raw json);
-- ~~Make **cpp-httplib** as git submodule;~~
+- ~~Format output (currently is raw json)~~;
+- ~~Make **cpp-httplib** as git submodule~~;
