@@ -16,4 +16,4 @@ Running ```dogfact 2``` gives two dog facts.
 
 ## TODO
 - Format output (currently is raw json);
-- Make **cpp-httplib** as git submodule;
+- ~~Make **cpp-httplib** as git submodule;~~
