@@ -1,7 +1,7 @@
 CXX := g++
 CXXFLAGS := -std=c++11 -Wall -Wextra
 DEFINES := -DCPPHTTPLIB_OPENSSL_SUPPORT
-INCLUDES := -I./cpp-httplib
+INCLUDES := -I./cpp-httplib -I./picojson
 LIBS := -lssl -lcrypto
 
 all: dogfact
