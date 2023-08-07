@@ -13,6 +13,7 @@ Running `dogfact 2` gives two dog facts.
 
 ## Dependencies
 - cpp-httplib ([MIT License](https://github.com/yhirose/cpp-httplib/blob/master/LICENSE))
+- picojson ([BSD-2-Clause License](https://github.com/kazuho/picojson/blob/master/LICENSE))
 
 ## TODO
 - ~~Format output (currently is raw json)~~;
