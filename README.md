@@ -12,7 +12,7 @@ Running ```dogfact``` gives one dog fact.
 Running ```dogfact 2``` gives two dog facts.
 
 ## Build deps
-[cpp-httplib](https://github.com/yhirose/cpp-httplib/issues)
+[cpp-httplib](https://github.com/yhirose/cpp-httplib)
 
 ## TODO
 - Format output (currently is raw json);
