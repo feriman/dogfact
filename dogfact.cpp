@@ -15,7 +15,7 @@ int main(int argc, char *argv[])
 		if (atoi(argv[1])) {
 			path += argv[1];
 		} else {
-			std::cout << "Error: integer expected" << std::endl;
+			std::cerr << "Error: integer expected" << std::endl;
 			return 1;
 		}
 	}
@@ -31,7 +31,7 @@ int main(int argc, char *argv[])
 		}
 	} else {
 		auto err = res.error();
-		std::cout << "HTTP error: " << httplib::to_string(err) << std::endl;
+		std::cerr << "HTTP error: " << httplib::to_string(err) << std::endl;
 		return 2;
 	}
 
