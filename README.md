@@ -16,5 +16,5 @@ Running `dogfact 2` gives two dog facts.
 - picojson ([BSD-2-Clause License](https://github.com/kazuho/picojson/blob/master/LICENSE))
 
 ## TODO
-- ~~Format output (currently is raw json)~~;
-- ~~Make **cpp-httplib** as git submodule~~;
+- [x] Format output (currently is raw json);
+- [x] Make **cpp-httplib** as git submodule;
